@@ -10,10 +10,9 @@ Acesse o site oficial e baixe o instalador para o seu sistema operacional (Windo
 - Instalar o Anaconda
 Siga este tutorial passo a passo conforme seu sistema:
 - 📘 Tutorial (Windows):
-  - 👉 Como instalar o Anaconda no Windows (Canal Curso em Vídeo)
+  - 👉 https://youtu.be/JrI9GuV_kZg?si=5ieVkILfzoDZSwLe 
 - 📘 Tutorial (Linux e macOS):
-👉 Instalando o Anaconda no Ubuntu ou macOS (Blog DigitalOcean)
-
+  - 👉 https://youtu.be/PLQen8_NqK0?si=EVNBf5Uln0hNKKHc
 ## Instruções de Instalação
 
 ## Instruções de Uso
