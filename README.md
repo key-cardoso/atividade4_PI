@@ -4,10 +4,10 @@ Este projeto tem como objetivo treinar um modelo de machine learning para classi
 
 ## Instruções de Instalação
 Para rodar este projeto, você precisa ter o Anaconda instalado em sua máquina. Siga as instruções abaixo:
---1. Baixar o Anaconda
+- 1. Baixar o Anaconda
 Acesse o site oficial e baixe o instalador para o seu sistema operacional (Windows, macOS ou Linux):
 🔗 https://www.anaconda.com/products/distribution
---2. Instalar o Anaconda
+- 2. Instalar o Anaconda
 Siga este tutorial passo a passo conforme seu sistema:
 📘 Tutorial (Windows):
 👉 Como instalar o Anaconda no Windows (Canal Curso em Vídeo)
