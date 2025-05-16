@@ -11,9 +11,39 @@ Para rodar este projeto, você precisa ter o Anaconda instalado em sua máquina.
   - 👉 https://youtu.be/JrI9GuV_kZg?si=5ieVkILfzoDZSwLe 
 - 📘 Tutorial (Linux e macOS):
   - 👉 https://youtu.be/PLQen8_NqK0?si=EVNBf5Uln0hNKKHc
-## Instruções de Instalação
+## ✅ Passos para treinar o modelo:
+- Acesse:
+- - 🔗 https://teachablemachine.withgoogle.com/
+Para melhor experiência, em vez de usar o navegador Chrome, utilize o navegador Firefox para abrir o link acima e treinar seu modelo.
+- Após abrir o link clique na opção "Get Started":
+- ![image](https://github.com/user-attachments/assets/25532752-cc2f-4fe6-bb7e-ecd60bf4a25b)
 
-## Instruções de Uso
+
+Clique em "Image Project" e depois em "Standard Image Model".
+
+Crie suas classes (ex: "Copo", "Caneta", "Nada").
+
+Grave amostras com sua webcam para cada classe.
+👉 Quanto mais exemplos, melhor o modelo.
+
+Após capturar as imagens, clique em "Train Model".
+
+Quando o treinamento terminar, clique em "Export Model", depois:
+
+Vá em TensorFlow → Download my model
+
+Isso irá baixar um .zip com os arquivos do modelo
+
+Extraia o arquivo .zip e use os seguintes arquivos no seu projeto:
+
+keras_model.h5 → o modelo treinado
+
+labels.txt → os nomes das classes
+
+Coloque esses arquivos na mesma pasta do seu script Python.
+## 🚀 Instruções de Uso
+
+
 
 ## Créditos
 
