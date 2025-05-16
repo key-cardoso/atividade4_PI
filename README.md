@@ -60,16 +60,11 @@ Obs: nesse caso estamos usando a webcam, mas você pode tambem fazer uploads das
   ![image](https://github.com/user-attachments/assets/b51ba4ec-d0a4-4c5a-8cde-0ed93c57ad94)
 - Execute o seu codigo (pode demorar alguns segundos, aguarde), abrirá uma janela com a imagem da Webcam, aponte para um dos objetos que você treinou, e veja se esta classificando corretamente:
  ![OCULOS](https://github.com/user-attachments/assets/1f2ad473-5cbe-4afd-a7e9-aac334068481)
-- Caso dei falha na sua camera, abra seu codigo o trecho do codigo para "1":
+- Caso dei falha na sua camera, abra seu codigo e altere o trecho selecioando para "1":
   ![image](https://github.com/user-attachments/assets/c4f3fd13-ff9c-46a4-9437-35e932fe6252)
 
 
-
-
-
-
-
 ## Créditos
-
+📚 Este projeto foi desenvolvido como parte da disciplina Processamento de Imagem, ministrada pelo professor Danilo, no curso de Bacharelado em Sistemas de Informação da UFOPA (Universidade Federal do Oeste do Pará), campus Oriximiná.
 
 
